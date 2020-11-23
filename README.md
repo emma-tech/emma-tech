@@ -1,8 +1,8 @@
 ### Hi there! 👋
 
--  👩‍💻 **I'm Emma**, a creative web & social media editor with frontend developer skills, on a journey towards being a frontend developer through the 2020 fall bootcamp at Technigo. 
+-  👩‍💻 **I'm Emma**, a creative web & social media editor with a background in media & communication, on a journey towards becoming a frontend developer through the 2020 fall bootcamp at Technigo. 
 
-- 🚀 Currently working on my skills in **HTML, CSS, JavaScript, React, React Native, Redux and Node.js.** 
+- 🚀 Currently working on my frontend developer skills in **HTML, CSS, JavaScript, React, React Native, Redux and Node.js.** 
 
 - 💛 **User experience is close to my heart**, and I'm always curious to learn more about technology and design. 
 
