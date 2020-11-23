@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**emma-tech/emma-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  👩‍💻 I'm Emma, a creative web & social media editor with frontend developer skills, currently on a journey towards being a junior frontend developer through the 2020 fall bootcamp at Technigo. 
 
-Here are some ideas to get you started:
+- 🚀 Currently working on my frontend developer skills with HTML, CSS, JavaScript, React, React Native, Redux and Node.js. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💛 User experience is close to my heart , and I'm always curious to learn more about technology and design. 
+
+- ⚡️ My passion is to build creative, problem-solving and fun user experiences that makes sense to people.
+
+- 🌱 I’m currently learning: React and Redux.
+
+- 🎨 I want to learn more about: UX design and accessibility.
+
+- 📫 How to reach me: Check out my portfolio at https://emmaurman.se/
