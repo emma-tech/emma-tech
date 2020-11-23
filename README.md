@@ -6,7 +6,7 @@
 
 - 💛 **User experience is close to my heart**, and I'm always curious to learn more about technology and design. 
 
-- ⚡️ **My passion is to build creative, problem-solving and fun user experiences that makes sense to people.
+- ⚡️ **My passion is to build creative, problem-solving and fun user experiences that makes sense to people.**
 
 - 🌱 **I’m currently learning:** React and Redux.
 
