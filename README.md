@@ -10,6 +10,6 @@
 
 - 🌱 **I’m currently learning:** React and Redux.
 
-- 🎨 **I want to learn more about:** React Native, UX design and accessibility.
+- 💭 **I want to learn more about:** Sass, React Native, UX design, PHP, advanced design techniques with CSS, animations (...the list is long! 😅)
 
 - 📫 **How to reach me:** Check out my portfolio and contact details at https://emmaurman.se/
