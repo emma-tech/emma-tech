@@ -8,7 +8,7 @@
 
 - ⚡️ **My passion is to build creative, problem-solving and fun user experiences that makes sense to people.**
 
-- 🌱 **I’m currently learning:** React and Redux.
+- 🌱 **I’m currently learning:** Node.js, MongoDB and Express.
 
 - 💭 **I want to learn more about:** Sass, React Native, UX design, PHP, advanced design techniques with CSS, animations (...the list is long! 😅)
 
