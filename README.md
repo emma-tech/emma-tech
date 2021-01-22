@@ -8,8 +8,8 @@
 
 - ⚡️ **My passion is to build creative, problem-solving and fun user experiences that makes sense to people.**
 
-- 🌱 **I’m currently learning:** Node.js, MongoDB and Express.
+- 🌱 **I’m currently learning:** Redux, Node.js, MongoDB and Express.
 
-- 💭 **I want to learn more about:** Sass, React Native, UX design, PHP, advanced design techniques with CSS, animations (...the list is long! 😅)
+- 💭 **I want to learn more about:** Sass, React Native, UX design, TypeScript, PHP, advanced design techniques with CSS, animations (...the list is long! 😅)
 
 - 📫 **How to reach me:** Check out my portfolio and contact details at https://emmaurman.se/
