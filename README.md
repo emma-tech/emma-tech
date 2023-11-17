@@ -1,13 +1,13 @@
 ### Hi there! 👋
 
--  👩‍💻 **I'm Emma**, a creative frontend developer with a background in media & communication.
+-  👩‍💻 **I'm Emma**, a creative UX-designer with a background in frontend development and communication.
 
-- 🚀 Currently working on my frontend developer skills in **HTML, CSS, JavaScript, React, React Native, Redux and Node.js.** 
+- 🚀 Currently working on my UX skills in **Technigos frontend bootcamp** 
 
-- 💛 **User experience is close to my heart**, and I'm always curious to learn more about technology and design. My passion is to build creative, problem-solving and fun user experiences that makes sense to people.
+- 💛 **User experience, inclusive design and accessibility have always been close to my heart**, and I'm always curious to learn more about technology and design. My passion is to build inclusive, creative, problem-solving and fun user experiences that makes sense to people.
 
-- 🌱 **I’m currently learning:** Redux, Node.js, MongoDB and Express.
+- 🌱 **I’m currently learning:** UX psychology, User Data and Analytics.
 
-- 💭 **I want to learn more about:** Sass, React Native, UX design, TypeScript, advanced design techniques with CSS, animations (...the list is long! 😅)
+- 💭 **I want to learn more about:** Sass, advanced design techniques with CSS, animations (...the list is long! 😅)
 
 - 📫 **How to reach me:** Check out my portfolio and contact details at https://emmaurman.se/
